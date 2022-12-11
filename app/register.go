@@ -6,6 +6,7 @@ import (
 	_ "github.com/iawia002/lux/extractors/bilibili"
 	_ "github.com/iawia002/lux/extractors/douyin"
 	_ "github.com/iawia002/lux/extractors/douyu"
+	_ "github.com/iawia002/lux/extractors/eplus"
 	_ "github.com/iawia002/lux/extractors/eporner"
 	_ "github.com/iawia002/lux/extractors/facebook"
 	_ "github.com/iawia002/lux/extractors/geekbang"
